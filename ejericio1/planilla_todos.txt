@@ -1,7 +1,0 @@
-Nombre y Apellido: waldo pizarro
-Cargo: ceo
-Sueldo Bruto: 2000
-Descuento de salud: 140.0
-Descuento AFP: 240.0
-Liquido a pagar del trabajador: 1620.0
-
